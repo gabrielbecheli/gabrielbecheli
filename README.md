@@ -11,5 +11,10 @@ Tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas
    <a href="https://linktr.ee/gabrielbecheli" target="_blank"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a> 
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielbecheli/gabrielbecheli/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielbecheli/gabrielbecheli/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gabrielbecheli/gabrielbecheli/output/github-contribution-grid-snake.svg">
+</picture>
 
 
