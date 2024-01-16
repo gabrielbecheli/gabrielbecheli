@@ -1,6 +1,6 @@
 ## Olá! Me chamo Gabriel Becheli ✌️
 
-Tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas. 👨‍💻 <br>
+Tenho 19 anos e estou cursando Análise e Desenvolvimento de Sistemas. 👨‍💻 <br>
 Quero me tornar programador front-end e criar sites visualmente incríveis. 
 
 📎Links úteis: 
