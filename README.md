@@ -1,9 +1,9 @@
-## Olá! Eu sou o Gabriel Becheli ✌️
+## Olá! Me chamo Gabriel Becheli ✌️
 
-Tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas. 
-Quero me tornar programador front-end e criar sites visualmente incríveis.
+Tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas. 👨‍💻 <br>
+Quero me tornar programador front-end e criar sites visualmente incríveis. 
 
-Links úteis: 
+📎Links úteis: 
 <div> 
   <a href="https://instagram.com/gabrielbecheli" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:gabrielbecheli10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
